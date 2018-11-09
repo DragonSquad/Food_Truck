@@ -12,10 +12,88 @@ Allows college students and people living in the area to order food on the go. A
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+Our [design product spec](https://hackmd.io/ikczVAYwSQWBTJQNhkpitQ) (described in that link) will look like the following in your README:
 
----
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+### First User Story---MVP
+ #### Smitty Werbenjagermanjensen
+ * College students
+     * Required
+     * Display locations of nearby available foodtrucks
+     * Show menus, ingredients and prices
+     * Save credit information
+         * Optional
+         * Filtering option (vegetarian, allergen, filtering, etc.)
+         * Bookmark favorite/frequently visited trucks
+         * Leave comments
+         
+    
+ * Food trucks
+     * Required
+     * Set status (open, close)
+     * Update menus
+     * Include payment methods
+         * Optional
+         * Indicate daily specials
+
+## 2. Screen Archetypes
+#### Based off of both user stories (required and optional)
+ * Registrition (Login)
+    * Registration Page
+        * Insert user name, address, payment method, password, etc.
+ * Profile
+    * Seller Profile
+        * Edit menu
+        * Edit location
+        * Payment method preferences
+    * Buyer Profile
+        * Payment methods
+        * Favorite trucks
+        * Transaction history
+ * Map (Stream)
+     * Truck info/search
+ * Menu Screen (Detail)
+     * Food Prices
+     * Nutritional information
+     * Pictures of the food/truck
+     * Review history/write a review
+     * Place order
+ * Order Placement Screen (Create)
+     * Payment type
+     * Order number/reciept
+     * Estimated pickup time
+ * Settings
+     * Can edit name, location, other user profile features
+     * Enable notifications regarding order
+     * Enable third party AI (Siri, Alexa, etc.)
+     * Privacy settings/manage data collection settings
+ 
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+ 
+ * Search Bar
+ * Map
+ * Profile
+
+**Flow Navigation** (Screen to Screen)
+
+ * Registration/login
+     => Profile
+         => Map
+ * Menu Screen
+     => Additional details
+     => Add to Cart
+         => Order Payment screen
+            => Map
+            => Profile
+ * Map Screen
+    => Search Bar
+    => Profile
 
 ### Wireframes
 // TODO: Add Wireframe Images
