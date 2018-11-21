@@ -98,11 +98,11 @@ Our [design product spec](https://hackmd.io/ikczVAYwSQWBTJQNhkpitQ) (described i
 ### Wireframes
 ## Login Page
 <img width="364" alt="screen shot 2018-11-20 at 11 45 36 pm" src="https://user-images.githubusercontent.com/38510665/48819576-a5b98200-ed1e-11e8-8896-eb92008c10c7.png">
-## Registartion Page
+## Login Page
 <img width="364" alt="screen shot 2018-11-20 at 11 36 52 pm" src="https://user-images.githubusercontent.com/38510665/48819685-1a8cbc00-ed1f-11e8-865b-4bc5d4f9c539.png">
-## Home Page
+## Login Page
 <img width="367" alt="screen shot 2018-11-20 at 11 37 03 pm" src="https://user-images.githubusercontent.com/38510665/48819695-28424180-ed1f-11e8-9745-a96a97ac147b.png">
-## Profile Page
+## Login Page
 <img width="367" alt="screen shot 2018-11-20 at 11 37 43 pm" src="https://user-images.githubusercontent.com/38510665/48819706-3e500200-ed1f-11e8-8dfd-cab181acf164.png">
 ---
 
