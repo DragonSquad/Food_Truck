@@ -120,6 +120,8 @@ Our [design product spec](https://hackmd.io/ikczVAYwSQWBTJQNhkpitQ) (described i
 ## Order Placement
 ![](https://i.imgur.com/B2407CE.jpg)
 
+## Interactive Prototype
+<img src=http://g.recordit.co/w6onmUsWbv.gif width=200><br>
 
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
